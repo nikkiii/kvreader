@@ -1,6 +1,8 @@
 # KVReader
 
-A small and efficient KeyValue/SMC Parser in PHP
+A small and (semi)efficient KeyValue/SMC Parser in PHP
+
+KVReader2 is probably better and used the same way as 1.
 
 ## Requirements
 
